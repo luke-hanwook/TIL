@@ -8,6 +8,6 @@
 4. 공유하겠습니다
 
 ## List
-- [JavaScript](/JavaScript)
-- [ElasticSearch](/ElasticSearch)
-- [FrontEnd](/FrontEnd)
+- [JavaScript](./JavaScript)
+- [ElasticSearch](./ElasticSearch)
+- [FrontEnd](./FrontEnd)
